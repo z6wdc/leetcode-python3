@@ -1,1 +1,1 @@
-# Difference between `and` and `&` in Python
+# Difference between 'and' and '&' in Python
